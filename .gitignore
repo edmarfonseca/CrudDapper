@@ -1,0 +1,50 @@
+# Compiled binary files
+/bin/
+/obj/
+/out/
+
+# User-specific files
+*.rsuser
+*.user
+*.suo
+
+# Build results
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+*.vspscc
+
+# Visual Studio files
+.vscode/
+.vs/
+*.psess
+*.vsp
+.vscode/
+
+# Rider files
+.idea/
+.idea_modules/
+
+# macOS files
+.DS_Store
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# DotNet
+project.lock.json
+project.fragment.lock.json
+artifacts/
+Generated_Code/
